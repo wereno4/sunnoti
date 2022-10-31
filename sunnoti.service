@@ -1,0 +1,6 @@
+[Unit]
+Description=Sunrise Notification Bot
+
+[Service]
+Type=Simple
+ExecStart=/usr/bin/python /your/directory/sunnoti.py
